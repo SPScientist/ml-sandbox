@@ -9,6 +9,6 @@ Tools used :
  * Scikit-Learn
 
 Published version :
- * [Tensorflow MNIST](https://sbrouil.github.io/jupyter-sandbox/Tensorflow+MNIST.html)
- * [Kaggle MNIST Clustering](https://sbrouil.github.io/jupyter-sandbox/MNIST+Kaggle+Digit+clusterization+using+KMeans.html)
- * [Digit Clustering with autoencoder](https://sbrouil.github.io/jupyter-sandbox/Digit+Autoencoder+Clustering.html)
+ * [Tensorflow MNIST](https://sbrouil.github.io/ml-sandbox/Tensorflow+MNIST.html)
+ * [Kaggle MNIST Clustering](https://sbrouil.github.io/ml-sandbox/MNIST+Kaggle+Digit+clusterization+using+KMeans.html)
+ * [Digit Clustering with autoencoder](https://sbrouil.github.io/ml-sandbox/Digit+Autoencoder+Clustering.html)
